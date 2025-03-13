@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG6221_ICE_TASK_3", "PROG6221_ICE_TASK_3\PROG6221_ICE_TASK_3.csproj", "{4D1C92EB-8A3E-4A52-A6E3-041804727E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1C92EB-8A3E-4A52-A6E3-041804727E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1C92EB-8A3E-4A52-A6E3-041804727E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1C92EB-8A3E-4A52-A6E3-041804727E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1C92EB-8A3E-4A52-A6E3-041804727E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {481EABE7-4AF6-4E5E-8019-6A7954BE90EB}
+	EndGlobalSection
+EndGlobal
